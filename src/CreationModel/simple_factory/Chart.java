@@ -1,4 +1,4 @@
-package CreationModel.simplefactory;
+package CreationModel.simple_factory;
 
 /**
  * 抽象图表接口，充当抽象产品类

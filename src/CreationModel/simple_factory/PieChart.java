@@ -1,4 +1,4 @@
-package CreationModel.simplefactory;
+package CreationModel.simple_factory;
 
 /**
  * 具体产品类实现类：

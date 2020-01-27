@@ -1,4 +1,4 @@
-package CreationModel.simplefactory;
+package CreationModel.simple_factory;
 
 /**
  * 图表创建工厂

@@ -1,4 +1,4 @@
-package CreationModel.simplefactory;
+package CreationModel.simple_factory;
 
 /**
  * 简单工厂模式
